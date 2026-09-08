@@ -27,31 +27,31 @@ The SPIROS project is part of the research group [Meta-Research](https://www.maa
 ## Authors
 
 **Professor Dr. Lex Bouter**
-Professor of Methodology and Integrity — Amsterdam University Medical Centers, Department of Epidemiology and Data Science, Amsterdam Public Health Research Institute; Vrije Universiteit, Faculty of Humanities, Department of Philosophy
+Professor Emeritus of Methodology and Integrity — Amsterdam University Medical Centers, Department of Epidemiology and Data Science, Amsterdam Public Health Research Institute; Visiting Fellow, Vrije Universiteit, Faculty of Humanities, Department of Philosophy
 [More info](https://research.vu.nl/en/persons/lex-bouter)
 
 **Dr. Sakib Burza**
-Medical Director, Health In Harmony — Honorary Associate Professor of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine
+Chief Health & Innovation Officer, Health In Harmony — Honorary Associate Professor of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine; Visiting Professor, Institute of Tropical Medicine, Nagasaki University
 [More info](https://healthinharmony.org/team/sakib-burza/)
 
 **Professor Gary Collins**
-Professor of Medical Statistics, Director of the UK EQUATOR Centre — Centre for Statistics in Medicine | NDORMS | University of Oxford, Botnar Research Centre, Oxford, United Kingdom
-[More info](https://www.ndorms.ox.ac.uk/team/gary-collins)
+125th Anniversary Chair and Professor of Medical Statistics, Director of the UK EQUATOR Centre — Department of Applied Health Sciences, University of Birmingham, United Kingdom
+[More info](https://research.birmingham.ac.uk/en/persons/gary-collins/)
 
 **Professor Dr Philip Greenland**
 Harry W. Dingman Professor of Cardiology and Professor of Preventive Medicine, Feinberg School of Medicine, Northwestern University — Senior Editor for JAMA
 [More info](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=11644)
 
 **Professor Dr Jos Kleijnen**
-Professor of Systematic Reviews in Health Care, Maastricht University
+Emeritus Professor of Systematic Reviews in Health Care, Maastricht University
 [More info](https://carim.mumc.maastrichtuniversity.nl/jos-kleijnen-professor-systematic-reviews-health-care)
 
 **Professor Dr André Knottnerus**
-Professor of General Practice, Netherlands School of Primary Care Research; Senior Scientist, Care and Public Health Research Institute (CAPHRI), Maastricht University; Former Editor-in-chief of the Journal of Clinical Epidemiology
+Emeritus Professor of General Practice, Maastricht University; Former Chair, Netherlands School of Primary Care Research; Senior Scientist, Care and Public Health Research Institute (CAPHRI); Former Editor-in-chief of the Journal of Clinical Epidemiology
 [More info](https://mumc.maastrichtuniversity.nl/profile/andre.knottnerus%40maastrichtuniversity.nl)
 
 **Professor Dr Carl Lachat**
-Professor at Ghent University
+Associate Professor, Faculty of Bioscience Engineering, Ghent University
 [More info](https://research.ugent.be/web/person/carl-lachat-0/en)
 
 **Raman Mahajan**
@@ -59,7 +59,7 @@ PhD Candidate, Maastricht University, Netherlands
 [More info](https://cris.maastrichtuniversity.nl/en/persons/raman-mahajan)
 
 **Ana Marušić**
-Professor of Anatomy and Chair of the Department of Research in Biomedicine and Health, University of Split School of Medicine, Split, Croatia; Honorary Professor at the University of Edinburgh, UK; Co-editor in Chief of the Journal of Global Health
+Professor of Anatomy and Chair of the Department of Research in Biomedicine and Health, University of Split School of Medicine, Split, Croatia; Editor Emerita of the Journal of Global Health and the Croatian Medical Journal
 [More info](https://mefst.unist.hr/research/laboratories-and-research-groups/research-group-science-and-society/ana-marusic/1718)
 
 **Professor Joseph Ross**
