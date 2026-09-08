@@ -78,6 +78,12 @@ Professor at HAN University of Applied Sciences, Netherlands; Senior Researcher 
 Scientific Director, Head of School Care and Public Health Research institute (CAPHRI), Maastricht University; Professor of Complex Genetics and Epidemiology, Head of Department of Complex Genetics, Maastricht University
 [More info](https://www.maastrichtuniversity.nl/mp-zeegers)
 
+## Get involved
+
+SPIROS is an active project and we welcome collaborators, on two fronts in particular. Contributions to future updates of the SPIROS guideline itself, and meta-research studying how SPIROS is being adopted and used in practice.
+
+Interested? Open an issue in this repository, or get in touch with [Prof. Dr. Maurice Zeegers](https://www.maastrichtuniversity.nl/mp-zeegers).
+
 ---
 
 Part of [MosaROR](https://github.com/MosaROR), Section Meta-Research, Maastricht University.
