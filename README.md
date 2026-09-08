@@ -38,10 +38,6 @@ Medical Director, Health In Harmony — Honorary Associate Professor of Infectio
 Professor of Medical Statistics, Director of the UK EQUATOR Centre — Centre for Statistics in Medicine | NDORMS | University of Oxford, Botnar Research Centre, Oxford, United Kingdom
 [More info](https://www.ndorms.ox.ac.uk/team/gary-collins)
 
-**Dr. Peter Van Dael**
-Senior Vice President at DSM Nutritional Products
-[More info](https://ch.linkedin.com/in/peter-van-dael)
-
 **Professor Dr Philip Greenland**
 Harry W. Dingman Professor of Cardiology and Professor of Preventive Medicine, Feinberg School of Medicine, Northwestern University — Senior Editor for JAMA
 [More info](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=11644)
