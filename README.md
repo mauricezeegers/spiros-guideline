@@ -75,7 +75,7 @@ Professor at HAN University of Applied Sciences, Netherlands; Senior Researcher 
 [More info](https://www.han.nl/onderzoek/onderzoekers/bart-staal/#)
 
 **Professor Dr Maurice P. Zeegers**
-Scientific Director, Head of School Care and Public Health Research institute (CAPHRI), Maastricht University; Professor of Complex Genetics and Epidemiology, Head of Department of Complex Genetics, Maastricht University
+Professor of Complex Genetics and Epidemiology, Head of Section Meta-Research, Maastricht University
 [More info](https://www.maastrichtuniversity.nl/mp-zeegers)
 
 ## Get involved
