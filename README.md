@@ -26,53 +26,57 @@ The SPIROS project is part of the research group [Meta-Research](https://www.maa
 
 ## Authors
 
-**Professor Dr. Lex Bouter**
-Professor Emeritus of Methodology and Integrity — Amsterdam University Medical Centers, Department of Epidemiology and Data Science, Amsterdam Public Health Research Institute; Visiting Fellow, Vrije Universiteit, Faculty of Humanities, Department of Philosophy
-[More info](https://research.vu.nl/en/persons/lex-bouter)
+**Raman Mahajan**
+PhD Candidate, Maastricht University, Netherlands
+[More info](https://cris.maastrichtuniversity.nl/en/persons/raman-mahajan)
 
 **Dr. Sakib Burza**
 Chief Health & Innovation Officer, Health In Harmony — Honorary Associate Professor of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine; Visiting Professor, Institute of Tropical Medicine, Nagasaki University
 [More info](https://healthinharmony.org/team/sakib-burza/)
 
-**Professor Gary Collins**
-125th Anniversary Chair and Professor of Medical Statistics, Director of the UK EQUATOR Centre — Department of Applied Health Sciences, University of Birmingham, United Kingdom
-[More info](https://research.birmingham.ac.uk/en/persons/gary-collins/)
-
-**Professor Dr Philip Greenland**
-Harry W. Dingman Professor of Cardiology and Professor of Preventive Medicine, Feinberg School of Medicine, Northwestern University — Senior Editor for JAMA
-[More info](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=11644)
-
-**Professor Dr Jos Kleijnen**
-Emeritus Professor of Systematic Reviews in Health Care, Maastricht University
-[More info](https://carim.mumc.maastrichtuniversity.nl/jos-kleijnen-professor-systematic-reviews-health-care)
-
-**Professor Dr André Knottnerus**
-Emeritus Professor of General Practice, Maastricht University; Former Chair, Netherlands School of Primary Care Research; Senior Scientist, Care and Public Health Research Institute (CAPHRI); Former Editor-in-chief of the Journal of Clinical Epidemiology
-[More info](https://mumc.maastrichtuniversity.nl/profile/andre.knottnerus%40maastrichtuniversity.nl)
-
-**Professor Dr Carl Lachat**
-Associate Professor, Faculty of Bioscience Engineering, Ghent University
-[More info](https://research.ugent.be/web/person/carl-lachat-0/en)
-
-**Raman Mahajan**
-PhD Candidate, Maastricht University, Netherlands
-[More info](https://cris.maastrichtuniversity.nl/en/persons/raman-mahajan)
-
-**Ana Marušić**
-Professor of Anatomy and Chair of the Department of Research in Biomedicine and Health, University of Split School of Medicine, Split, Croatia; Editor Emerita of the Journal of Global Health and the Croatian Medical Journal
-[More info](https://mefst.unist.hr/research/laboratories-and-research-groups/research-group-science-and-society/ana-marusic/1718)
-
-**Professor Joseph Ross**
-Professor of Medicine (General Medicine) and of Public Health (Health Policy and Management), Yale-New Haven Hospital; Co-Director of the National Clinician Scholars program (NCSP) at Yale; Deputy Editor at JAMA
-[More info](https://medicine.yale.edu/profile/joseph-ross/)
+**Professor Dr. Lex Bouter**
+Professor Emeritus of Methodology and Integrity — Amsterdam University Medical Centers, Department of Epidemiology and Data Science, Amsterdam Public Health Research Institute; Visiting Fellow, Vrije Universiteit, Faculty of Humanities, Department of Philosophy
+[More info](https://research.vu.nl/en/persons/lex-bouter)
 
 **Professor Dr Klaas Sijtsma**
 Professor of methods and techniques of psychological research; Former Rector Magnificus of Tilburg University
 [More info](https://www.tilburguniversity.edu/about/history-and-academic-heritage/klaas-sijtsma)
 
+**Professor Dr André Knottnerus**
+Emeritus Professor of General Practice, Maastricht University; Former Chair, Netherlands School of Primary Care Research; Senior Scientist, Care and Public Health Research Institute (CAPHRI); Former Editor-in-chief of the Journal of Clinical Epidemiology
+[More info](https://mumc.maastrichtuniversity.nl/profile/andre.knottnerus%40maastrichtuniversity.nl)
+
+**Professor Dr Jos Kleijnen**
+Emeritus Professor of Systematic Reviews in Health Care, Maastricht University
+[More info](https://carim.mumc.maastrichtuniversity.nl/jos-kleijnen-professor-systematic-reviews-health-care)
+
 **Professor Bart Staal**
 Professor at HAN University of Applied Sciences, Netherlands; Senior Researcher Radboud University Medical Centre Nijmegen, Netherlands
 [More info](https://www.han.nl/onderzoek/onderzoekers/bart-staal/#)
+
+**Professor Dr Carl Lachat**
+Associate Professor, Faculty of Bioscience Engineering, Ghent University
+[More info](https://research.ugent.be/web/person/carl-lachat-0/en)
+
+**Professor Joseph Ross**
+Professor of Medicine (General Medicine) and of Public Health (Health Policy and Management), Yale-New Haven Hospital; Co-Director of the National Clinician Scholars program (NCSP) at Yale; Deputy Editor at JAMA
+[More info](https://medicine.yale.edu/profile/joseph-ross/)
+
+**Professor Dr Philip Greenland**
+Harry W. Dingman Professor of Cardiology and Professor of Preventive Medicine, Feinberg School of Medicine, Northwestern University — Senior Editor for JAMA
+[More info](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=11644)
+
+**Professor Dr Willi Sauerbrei**
+Professor of Medical Biometry, Institute of Medical Biometry and Statistics, Medical Center — University of Freiburg, Germany; Chair of the STRATOS Initiative
+[More info](https://www.ae-info.org/ae/Member/Sauerbrei_Willi)
+
+**Ana Marušić**
+Professor of Anatomy and Chair of the Department of Research in Biomedicine and Health, University of Split School of Medicine, Split, Croatia; Editor Emerita of the Journal of Global Health and the Croatian Medical Journal
+[More info](https://mefst.unist.hr/research/laboratories-and-research-groups/research-group-science-and-society/ana-marusic/1718)
+
+**Professor Gary Collins**
+125th Anniversary Chair and Professor of Medical Statistics, Director of the UK EQUATOR Centre — Department of Applied Health Sciences, University of Birmingham, United Kingdom
+[More info](https://research.birmingham.ac.uk/en/persons/gary-collins/)
 
 **Professor Dr Maurice P. Zeegers**
 Professor of Complex Genetics and Epidemiology, Head of Section Meta-Research, Maastricht University
