@@ -86,8 +86,6 @@ Professor of Complex Genetics and Epidemiology, Head of Section Meta-Research, M
 
 We sincerely thank all members of the expert Delphi panel  who contributed their time, expertise, and thoughtful judgement to the development of the SPIROS 2026. We gratefully acknowledge the valuable contributions of the following expert panel members, listed alphabetically by first name: Alex Burdorf; Amrish Baidjoe; Ana Marusic; An-Wen Chan; Arno Hoes; Asbjørn Hróbjartsson; Barry D. Cookson; Bart Staal; Bismark Y. Sarfo; Carl Lachat; Caroline Anne Sabin; Caroline Terwee; Chiara De Waure; Christina van der Feltz–Cornelis; Danielle van der Windt; Dmitry V. Nikolaenko; Evan Mayo-Wilson; Femmie de Vegt; Frits Rosendaal; Hanneke van der Lee; Ian White; Jesse Berlin; Johannes H. Smit; Joseph Ross; Jelte M. Wicherts; Julian Little; Kataoka Yuki; Klaus Linde; Kelly Cobey; Leonard Leibovici; Lisa Bero; Lisa Hartling; Malabika Sarker; Malcolm Macleod; Marjanka K. Schmidt; Marleen Boelaert; Maria Blettner; Matthew J. Page; Maureen Miller; Maurits van Tulder; Michael Von Korff; Michiel R. de Boer; Nathan Paul Ford; Nico T. Mutters; Nobhojit Roy; Nynke Smidt; Patrick Bossuyt; Paul Glasziou; Paul Montgomery; Paul Shekelle; Peter Croft; Petros Isaakidis; Philip Greenland; Raffaella Ravinetto; Rajesh Kumar; Robert M. Golub, MD; Rob Herbert; Rob Scholten; Salim M. Adib; Suneela Garg; Wendy R. Parulekar; Willi Sauerbrei; Xiaomei Yao. We also acknowledge Peter Van Dael for his guidance during the development of the study protocol.
 
----
-
 ## Get involved
 
 SPIROS is an active project and we welcome collaborators, on two fronts in particular. Contributions to future updates of the SPIROS guideline itself, and meta-research studying how SPIROS is being adopted and used in practice.
