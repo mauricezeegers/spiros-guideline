@@ -2,7 +2,7 @@
 
 **Standardized Protocol Items Recommendations for Observational Studies**
 
-[📋 Open the checklist](https://mauricezeegers.github.io/spiros-guideline/) · [📄 Study protocol (PDF)](https://www.maastrichtuniversity.nl/file/spiros-protocol-paperpdf) · [🔒 Data & code (private)](https://github.com/MosaROR/spiros-data) · [🏛️ OSF](https://osf.io/t6rvj/overview)
+[📋 Open the checklist](https://mauricezeegers.github.io/spiros-guideline/) · [📄 Study protocol (PDF)](https://www.maastrichtuniversity.nl/file/spiros-protocol-paperpdf) · [🔒 Data & code (private)](https://github.com/MosaROR/spiros-data) · [🏛️ Open Science Framework](https://osf.io/t6rvj/overview)
 
 ---
 
