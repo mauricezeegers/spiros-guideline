@@ -27,7 +27,7 @@ The SPIROS project is part of the research group [Meta-Research](https://www.maa
 ## Authors
 
 **Raman Mahajan**
-PhD Candidate, Meta-research group, Maastricht University, Netherlands
+PhD Candidate, Meta-research group, Maastricht University
 [More info](https://cris.maastrichtuniversity.nl/en/persons/raman-mahajan)
 
 **Dr. Sakib Burza**
