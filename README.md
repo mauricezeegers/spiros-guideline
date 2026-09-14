@@ -35,7 +35,7 @@ Chief Health & Innovation Officer, Health In Harmony — Honorary Associate Prof
 [More info](https://healthinharmony.org/team/sakib-burza/)
 
 **Professor Dr. Lex Bouter**
-Professor Emeritus of Methodology and Integrity — Amsterdam University Medical Centers, Department of Epidemiology and Data Science, Amsterdam Public Health Research Institute; Visiting Fellow, Vrije Universiteit, Faculty of Humanities, Department of Philosophy
+Professor Emeritus of Methodology and Integrity, Amsterdam University Medical Centers, Department of Epidemiology and Data Science, Amsterdam Public Health Research Institute, Vrije Universiteit, Faculty of Humanities, Department of Philosophy
 [More info](https://research.vu.nl/en/persons/lex-bouter)
 
 **Professor Dr Klaas Sijtsma**
@@ -43,7 +43,7 @@ Professor of methods and techniques of psychological research; Former Rector Mag
 [More info](https://www.tilburguniversity.edu/about/history-and-academic-heritage/klaas-sijtsma)
 
 **Professor Dr André Knottnerus**
-Emeritus Professor of General Practice, Maastricht University; Former Chair, Netherlands School of Primary Care Research; Senior Scientist, Care and Public Health Research Institute (CAPHRI); Former Editor-in-chief of the Journal of Clinical Epidemiology
+Emeritus Professor of General Practice, Maastricht University; Former Chair, Netherlands School of Primary Care Research, Care and Public Health Research Institute (CAPHRI); Former Editor-in-chief of the Journal of Clinical Epidemiology
 [More info](https://mumc.maastrichtuniversity.nl/profile/andre.knottnerus%40maastrichtuniversity.nl)
 
 **Professor Dr Jos Kleijnen**
@@ -63,11 +63,11 @@ Professor of Medicine (General Medicine) and of Public Health (Health Policy and
 [More info](https://medicine.yale.edu/profile/joseph-ross/)
 
 **Professor Dr Philip Greenland**
-Harry W. Dingman Professor of Cardiology and Professor of Preventive Medicine, Feinberg School of Medicine, Northwestern University — Senior Editor for JAMA
+Harry W. Dingman Professor of Cardiology and Professor of Preventive Medicine, Feinberg School of Medicine, Northwestern University; Senior Editor for JAMA
 [More info](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=11644)
 
 **Professor Dr Willi Sauerbrei**
-Professor of Medical Biometry, Institute of Medical Biometry and Statistics, Medical Center — University of Freiburg, Germany; Chair of the STRATOS Initiative
+Professor of Medical Biometry, Institute of Medical Biometry and Statistics, Medical Center, University of Freiburg, Germany; Chair of the STRATOS Initiative
 [More info](https://www.ae-info.org/ae/Member/Sauerbrei_Willi)
 
 **Ana Marušić**
@@ -75,7 +75,7 @@ Professor of Anatomy and Chair of the Department of Research in Biomedicine and 
 [More info](https://mefst.unist.hr/research/laboratories-and-research-groups/research-group-science-and-society/ana-marusic/1718)
 
 **Professor Gary Collins**
-125th Anniversary Chair and Professor of Medical Statistics, Director of the UK EQUATOR Centre — Department of Applied Health Sciences, University of Birmingham, United Kingdom
+125th Anniversary Chair and Professor of Medical Statistics, Department of Applied Health Sciences, University of Birmingham; Director of the UK EQUATOR Centre
 [More info](https://research.birmingham.ac.uk/en/persons/gary-collins/)
 
 **Professor Dr Maurice P. Zeegers**
