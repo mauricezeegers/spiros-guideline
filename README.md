@@ -31,7 +31,7 @@ PhD Candidate, Meta-research group, Maastricht University
 [More info](https://cris.maastrichtuniversity.nl/en/persons/raman-mahajan)
 
 **Dr. Sakib Burza**
-Chief Health & Innovation Officer, Health In Harmony — Honorary Associate Professor of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine; Visiting Professor, Institute of Tropical Medicine, Nagasaki University
+Chief Health & Innovation Officer, Health In Harmony, Honorary Associate Professor of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine; Visiting Professor, Institute of Tropical Medicine, Nagasaki University
 [More info](https://healthinharmony.org/team/sakib-burza/)
 
 **Professor Dr. Lex Bouter**
