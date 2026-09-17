@@ -329,8 +329,8 @@
 <div class="layout">
   <main id="main">
     <div class="intro-card">
-      <p><strong>Help us improve the SPIROS 2026 checklist.</strong> For each of the 33 items below, we would like your view on how clearly it is worded and how feasible it is to apply at the protocol stage, plus any suggestions. Expand "E&amp;E toelichting" under an item to see its explanation and example text from the Explanation &amp; Elaboration paper before rating it.</p>
-      <p>Every question is optional, rate only the items you have an opinion on. It should take about 15&ndash;25 minutes to go through the full checklist, less if you focus on a subset of items.</p>
+      <p><strong>Help us improve the SPIROS 2026 checklist for Protocols of Observational Studies.</strong> For each of the 33 items below, we would like your view on how clearly it is worded and how feasible it is to apply at the protocol writing stage, plus any suggestions. Each item is expandable with more information.</p>
+      <p>Every question is optional, please rate only the items you have an opinion on. It should take about 15 minutes to go through the full checklist, less if you focus on a subset of items of your interest.</p>
       <p>Your responses are sent to the SPIROS team by e-mail when you submit. Name and e-mail are optional and only used if you would like to be credited in the acknowledgements.</p>
     </div>
 
@@ -404,7 +404,7 @@
   var ITEMS = JSON.parse(document.getElementById("items-data").textContent);
 
   var CLARITY_LABELS = ["Very unclear", "Unclear", "Neutral", "Clear", "Very clear"];
-  var FEASIBILITY_LABELS = ["Very difficult / Not feasible", "Difficult", "Neutral", "Easy", "Very easy / Highly feasible"];
+  var FEASIBILITY_LABELS = ["Very difficult", "Difficult", "Neutral", "Easy", "Very easy"];
 
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>]/g, function (c) {
@@ -439,14 +439,24 @@
     return html;
   }
 
+  function stripTitleLead(text, title) {
+    var prefix = title + ':';
+    if (text.slice(0, prefix.length).toLowerCase() === prefix.toLowerCase()) {
+      return text.slice(prefix.length).trim();
+    }
+    return text;
+  }
+
   function itemTextHtml(it) {
     var html = "";
     it.subitems.forEach(function (s) {
-      html += '<span class="sub">' + esc(s.text) + '</span>';
+      var text = stripTitleLead(s.text, it.title);
+      if (text) html += '<span class="sub">' + esc(text) + '</span>';
     });
     if (it.subnotes && it.subnotes.length) {
       it.subnotes.forEach(function (n) {
-        html += '<span class="sub">' + esc(n) + '</span>';
+        var text = stripTitleLead(n, it.title);
+        if (text) html += '<span class="sub">' + esc(text) + '</span>';
       });
     }
     return html;
@@ -476,7 +486,7 @@
           '<div class="item-title"><h3>' + esc(it.title) + '</h3></div>' +
         '</div>' +
         '<div class="item-text">' + itemTextHtml(it) + '</div>' +
-        '<button type="button" class="ee-toggle" data-target="ee-' + it.num + '"><span class="chev">&rsaquo;</span> E&amp;E toelichting</button>' +
+        '<button type="button" class="ee-toggle" data-target="ee-' + it.num + '"><span class="chev">&rsaquo;</span> Explanation and Elaboration</button>' +
         '<div class="ee-detail" id="ee-' + it.num + '">' + detailHtml(it) + '</div>' +
         '<div class="feedback-block">' +
           '<div class="q-group">' +
@@ -486,7 +496,7 @@
           '</div>' +
           '<div class="q-group">' +
             '<div class="q-label">Feasibility &amp; Practical Applicability</div>' +
-            '<div class="q-sub">How feasible is it to actually specify the requested information during the protocol stage for your type of study?</div>' +
+            '<div class="q-sub">How easy is it to actually specify the requested information during the protocol stage for your type of study?</div>' +
             '<div class="scale">' + scaleHtml("item_" + it.num + "_feasibility", FEASIBILITY_LABELS) + '</div>' +
           '</div>' +
           '<div class="q-group">' +
