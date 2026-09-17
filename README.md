@@ -2,7 +2,7 @@
 
 **Standardized Protocol Items Recommendations for Observational Studies**
 
-[![Feedback form (deadline 25 september)](https://img.shields.io/badge/Feedback_form-deadline_25_september-red)](https://mauricezeegers.github.io/spiros-guideline/feedback.html)
+[![Feedback form (deadline 25 september)](https://img.shields.io/badge/Feedback_form-deadline_25_september-red?style=for-the-badge)](https://mauricezeegers.github.io/spiros-guideline/feedback.html)
 
 [📋 Open the checklist](https://mauricezeegers.github.io/spiros-guideline/) · [📄 Study protocol (PDF)](https://www.maastrichtuniversity.nl/file/spiros-protocol-paperpdf) · [🔒 Data & code (private)](https://github.com/MosaROR/spiros-data) · [🏛️ Open Science Framework](https://osf.io/t6rvj/overview)
 
