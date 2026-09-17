@@ -81,7 +81,62 @@
   button.btn.primary:hover { opacity: 0.92; color: var(--accent-ink); }
   button.btn.primary:disabled { opacity: 0.5; cursor: default; }
 
-  .layout { max-width: 880px; margin: 0 auto; padding: 28px 24px 80px; }
+  .layout {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 28px 24px 80px;
+    display: grid;
+    grid-template-columns: 220px minmax(0, 1fr);
+    gap: 32px;
+    align-items: start;
+  }
+  #main { max-width: 880px; }
+
+  .nav {
+    position: sticky;
+    top: 86px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .nav-title {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 8px 10px;
+  }
+  .nav a {
+    text-decoration: none;
+    color: var(--ink-muted);
+    font-size: 13.5px;
+    padding: 7px 10px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .nav a:hover { background: var(--surface-2); color: var(--ink); }
+  .nav a .count {
+    font-family: var(--mono);
+    font-size: 11.5px;
+    color: var(--ink-faint);
+    font-variant-numeric: tabular-nums;
+  }
+  .nav-search { margin: 4px 0 14px; }
+  .nav-search input {
+    width: 100%;
+    font-family: var(--sans);
+    font-size: 13px;
+    padding: 8px 10px;
+    border-radius: 7px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--ink);
+  }
+  .nav-search input::placeholder { color: var(--ink-faint); }
+  .item-card.hidden-by-filter { display: none; }
 
   .intro { font-size: 14.5px; color: var(--ink-muted); margin: 0 0 8px; }
   .intro-card {
@@ -305,6 +360,12 @@
     color: var(--ink-faint);
   }
 
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; }
+    .nav { position: static; flex-direction: row; flex-wrap: wrap; }
+    .nav-search { width: 100%; }
+  }
+
   @media (max-width: 560px) {
     .scale-opt { min-width: 60px; font-size: 10.5px; }
     .item-text, .ee-detail, .ee-toggle { margin-left: 0; }
@@ -327,10 +388,18 @@
 </div>
 
 <div class="layout">
+  <nav class="nav" id="navList" aria-label="Checklist parts">
+    <div class="nav-search">
+      <input type="search" id="searchBox" placeholder="Search items&hellip;" aria-label="Search checklist items">
+    </div>
+    <div class="nav-title">Sections</div>
+    <!-- part links injected by JS -->
+  </nav>
+
   <main id="main">
     <div class="intro-card">
       <p><strong>Help us improve the SPIROS 2026 checklist for Protocols of Observational Studies.</strong> For each of the 33 items below, we would like your view on how clearly it is worded and how feasible it is to apply at the protocol writing stage, plus any suggestions. Each item is expandable with more information.</p>
-      <p>Every question is optional, please rate only the items you have an opinion on. It should take about 15 minutes to go through the full checklist, less if you focus on a subset of items of your interest.</p>
+      <p>Every question is optional, please rate only the items you have an opinion on. It should take about 40 minutes to go through the full checklist, less if you focus on a section of your interest.</p>
       <p>Your responses are sent to the SPIROS team by e-mail when you submit. Name and e-mail are optional and only used if you would like to be credited in the acknowledgements.</p>
     </div>
 
@@ -346,19 +415,18 @@
 
         <div class="q-group">
           <div class="q-label">Overall Usability</div>
-          <div class="q-sub">How would you rate the overall structure and clarity of the SPIROS checklist?</div>
+          <div class="q-sub">How useful do you find SPIROS checklist for protocol writing?</div>
           <div class="scale" data-scale="overall_usability">
-            <label class="scale-opt"><input type="radio" name="overall_usability" value="1"><span class="scale-num">1</span><span>Very poor</span></label>
-            <label class="scale-opt"><input type="radio" name="overall_usability" value="2"><span class="scale-num">2</span><span>Poor</span></label>
-            <label class="scale-opt"><input type="radio" name="overall_usability" value="3"><span class="scale-num">3</span><span>Neutral</span></label>
-            <label class="scale-opt"><input type="radio" name="overall_usability" value="4"><span class="scale-num">4</span><span>Good</span></label>
-            <label class="scale-opt"><input type="radio" name="overall_usability" value="5"><span class="scale-num">5</span><span>Excellent</span></label>
+            <label class="scale-opt"><input type="radio" name="overall_usability" value="1"><span class="scale-num">1</span><span>Not useful</span></label>
+            <label class="scale-opt"><input type="radio" name="overall_usability" value="2"><span class="scale-num">2</span><span>Slightly useful</span></label>
+            <label class="scale-opt"><input type="radio" name="overall_usability" value="3"><span class="scale-num">3</span><span>Moderately useful</span></label>
+            <label class="scale-opt"><input type="radio" name="overall_usability" value="4"><span class="scale-num">4</span><span>Useful</span></label>
+            <label class="scale-opt"><input type="radio" name="overall_usability" value="5"><span class="scale-num">5</span><span>Very useful</span></label>
           </div>
         </div>
 
         <div class="q-group">
           <div class="q-label">Final Comments &amp; General Feedback</div>
-          <div class="q-sub">e.g., feedback on the organization into 9 conceptual axes, general layout, or web resources</div>
           <textarea class="comment-field" name="final_comments" rows="4" placeholder="Your general comments..."></textarea>
         </div>
 
@@ -412,6 +480,10 @@
     });
   }
 
+  function slug(s) {
+    return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+  }
+
   function scaleHtml(name, labels) {
     var html = "";
     for (var i = 0; i < labels.length; i++) {
@@ -425,7 +497,6 @@
   function detailHtml(it) {
     var html = "";
     if (it.explanation && it.explanation.length) {
-      html += '<h4>Explanation</h4>';
       it.explanation.forEach(function (p) {
         html += '<p>' + p + '</p>';
       });
@@ -433,7 +504,7 @@
     if (it.examples && it.examples.length) {
       html += '<h4 style="margin-top:10px">Examples</h4>';
       it.examples.forEach(function (ex) {
-        html += '<div class="example"><span class="ex-label">' + esc(ex.label) + '</span>' + ex.text + '</div>';
+        html += '<div class="example">' + ex.text + '</div>';
       });
     }
     return html;
@@ -467,10 +538,20 @@
     if (partOrder.indexOf(it.part) === -1) partOrder.push(it.part);
   });
 
+  var navList = document.getElementById("navList");
+  partOrder.forEach(function (part) {
+    var count = ITEMS.filter(function (it) { return it.part === part; }).length;
+    var a = document.createElement("a");
+    a.href = "#part-" + slug(part);
+    a.innerHTML = "<span>" + esc(part) + "</span><span class=\"count\">" + count + "</span>";
+    navList.appendChild(a);
+  });
+
   var root = document.getElementById("itemsRoot");
   partOrder.forEach(function (part) {
     var section = document.createElement("div");
     section.className = "part-section";
+    section.id = "part-" + slug(part);
     var heading = document.createElement("div");
     heading.className = "part-heading";
     heading.textContent = part;
@@ -480,13 +561,18 @@
       var card = document.createElement("div");
       card.className = "item-card";
       card.id = "fb-item-" + it.num;
+      card.dataset.searchText = (
+        it.num + " " + it.title + " " +
+        it.subitems.map(function (s) { return s.label + " " + s.text; }).join(" ") + " " +
+        (it.subnotes || []).join(" ")
+      ).toLowerCase();
       card.innerHTML =
         '<div class="item-head">' +
           '<span class="item-num">' + esc(it.num) + '</span>' +
           '<div class="item-title"><h3>' + esc(it.title) + '</h3></div>' +
         '</div>' +
         '<div class="item-text">' + itemTextHtml(it) + '</div>' +
-        '<button type="button" class="ee-toggle" data-target="ee-' + it.num + '"><span class="chev">&rsaquo;</span> Explanation and Elaboration</button>' +
+        '<button type="button" class="ee-toggle" data-target="ee-' + it.num + '"><span class="chev">&rsaquo;</span> Explanation</button>' +
         '<div class="ee-detail" id="ee-' + it.num + '">' + detailHtml(it) + '</div>' +
         '<div class="feedback-block">' +
           '<div class="q-group">' +
@@ -501,7 +587,6 @@
           '</div>' +
           '<div class="q-group">' +
             '<div class="q-label">Comments / Suggestions for Improvement</div>' +
-            '<div class="q-sub">e.g., suggestions for the E&amp;E text, clarification of definitions, or examples</div>' +
             '<textarea class="comment-field" name="item_' + it.num + '_comments" rows="2" placeholder="Optional..."></textarea>' +
           '</div>' +
         '</div>';
@@ -564,6 +649,19 @@
       statusEl.textContent = "Network error. Please check your connection and try again.";
       statusEl.className = "submit-status err";
       submitBtn.disabled = false;
+    });
+  });
+
+  var searchBox = document.getElementById("searchBox");
+  searchBox.addEventListener("input", function () {
+    var q = searchBox.value.trim().toLowerCase();
+    document.querySelectorAll(".item-card").forEach(function (card) {
+      var match = !q || card.dataset.searchText.indexOf(q) !== -1;
+      card.classList.toggle("hidden-by-filter", !match);
+    });
+    document.querySelectorAll(".part-section").forEach(function (sec) {
+      var visible = sec.querySelectorAll(".item-card:not(.hidden-by-filter)").length;
+      sec.style.display = visible ? "" : "none";
     });
   });
 })();
