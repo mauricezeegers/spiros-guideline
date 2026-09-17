@@ -16,8 +16,6 @@ The SPIROS Checklist recommends a full description of what is planned; it does n
 
 SPIROS includes a 33-item checklist covering six main domains namely (1) general information, (2) introduction, (3) methods, (4) ethical consideration, (5) reporting and dissemination and (6) others. An associated explanatory paper (SPIROS 2026: Explanation and Elaboration) details the rationale and supporting evidence for each checklist item, along with guidance and model examples from existing protocols. We hope that the SPIROS statement will stimulate the research community to keep writing protocols of observational studies and to improve their quality and transparency.
 
-The SPIROS project is part of the research group [Meta-Research](https://www.maastrichtuniversity.nl/research/epidemiology/research/meta-research) at Maastricht University.
-
 ## Resources
 
 **[The interactive checklist](https://mauricezeegers.github.io/spiros-guideline/)** work through the 33 SPIROS items directly in your browser, expand any item for its explanation and example text, and print or export a completed copy for your protocol. Nothing you fill in is sent anywhere; progress is saved locally in your own browser only.
