@@ -451,7 +451,6 @@
 
       <div class="submit-row">
         <button class="btn primary" type="submit" id="submitBtn">Submit feedback</button>
-        <button class="btn" type="button" id="clearDraftBtn">Clear saved answers</button>
         <span class="submit-status" id="submitStatus"></span>
       </div>
     </form>
@@ -693,16 +692,6 @@
   formEl.addEventListener('input', saveDraft);
   formEl.addEventListener('change', saveDraft);
   restoreDraft();
-
-  const clearDraftBtnEl = document.getElementById('clearDraftBtn');
-  if (clearDraftBtnEl) {
-    clearDraftBtnEl.addEventListener('click', () => {
-      if (!confirm('Clear all saved answers in this browser? This cannot be undone.')) return;
-      try { localStorage.removeItem(DRAFT_KEY); } catch (err) {}
-      formEl.reset();
-      itemsRootEl.querySelectorAll('.item-card.rated').forEach(cardEl => cardEl.classList.remove('rated'));
-    });
-  }
 
   // Form submission
   formEl.addEventListener('submit', async (e) => {
