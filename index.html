@@ -144,7 +144,11 @@
   }
 
   .topbar-actions { display: flex; gap: 8px; flex: 0 0 auto; }
-  button.btn {
+  button.btn, a.btn {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    line-height: normal;
     font-family: var(--sans);
     font-size: 13px;
     font-weight: 500;
@@ -155,7 +159,7 @@
     padding: 8px 13px;
     cursor: pointer;
   }
-  button.btn:hover { border-color: var(--accent); color: var(--accent); }
+  button.btn:hover, a.btn:hover { border-color: var(--accent); color: var(--accent); }
   button.btn.primary {
     background: var(--accent);
     border-color: var(--accent);
