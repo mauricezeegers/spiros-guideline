@@ -235,6 +235,9 @@
     max-width: 62ch;
     margin: 0 0 30px;
   }
+  .intro p { margin: 0 0 10px; }
+  .intro p:last-child { margin-bottom: 0; }
+  .intro strong { color: var(--ink); font-weight: 600; }
 
   /* ---------- Parts & items ---------- */
   .part-section { margin-bottom: 40px; scroll-margin-top: 86px; }
@@ -514,7 +517,12 @@
   </nav>
 
   <main id="main">
-    <p class="intro">A working checklist for the SPIROS 2026 reporting guideline for observational study protocols. Tick off items as you address them in your protocol, expand any item for its explanation and example text from the Explanation &amp; Elaboration paper, and print or export a completed copy for your files. Items under Part 1 (Administrative information) and Part 2 (Study design and setting) generally apply to all observational study protocols regardless of design; the applicability of items in later parts may depend on the specific design and data source used. Where an item is not applicable, state this explicitly with a brief justification. Progress is saved in this browser only. Nothing you fill in is sent anywhere or visible to anyone else, including us.</p>
+    <div class="intro">
+      <p>A working checklist for the SPIROS 2026 reporting guideline for observational study protocols. Fill it in while you write your protocol: tick off each item once it is addressed, add a note on where you addressed it, and expand any item for its explanation and examples from the Explanation &amp; Elaboration paper.</p>
+      <p><strong>Your answers stay with you.</strong> Everything you fill in is saved in this browser only, so you can close the page and continue later on the same device. Nothing is sent anywhere, and nobody else can see it, including the SPIROS team.</p>
+      <p><strong>Save or print your completed checklist.</strong> Use <em>Print / Export PDF</em> at the top to print it or save it as a PDF for your files. Keep a PDF copy, because clearing your browser data also clears the checklist.</p>
+      <p><strong>Not every item applies to every study.</strong> Items under Part 1 (Administrative information) and Part 2 (Study design and setting) generally apply to all observational study protocols regardless of design; the applicability of items in later parts may depend on the specific design and data source used. Where an item is not applicable, state this explicitly with a brief justification.</p>
+    </div>
     <div id="itemsRoot"><!-- rendered by JS --></div>
   </main>
 </div>
