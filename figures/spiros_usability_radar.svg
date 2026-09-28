@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" width="720" height="760" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif">
 <rect width="720" height="760" fill="#faf9f5"/>
 <text x="360.0" y="42" text-anchor="middle" font-size="24" font-weight="600" fill="#1c2321">Usability per item</text>
-<text x="360.0" y="70" text-anchor="middle" font-size="14" fill="#5c6663">Mean per checklist item, 0 to 5, n = 27 respondents</text>
+<text x="360.0" y="70" text-anchor="middle" font-size="14" fill="#5c6663">Mean per checklist item, 0 to 5, n = 28 respondents</text>
 <polygon points="360.0,352.0 371.0,353.0 381.6,356.2 391.4,361.2 400.0,368.0 407.2,376.4 412.8,385.9 416.4,396.3 417.9,407.2 417.4,418.3 414.8,429.0 410.2,439.0 403.8,448.0 395.9,455.6 386.6,461.6 376.3,465.7 365.5,467.7 354.5,467.7 343.7,465.7 333.4,461.6 324.1,455.6 316.2,448.0 309.8,439.0 305.2,429.0 302.6,418.3 302.1,407.2 303.6,396.3 307.2,385.9 312.8,376.4 320.0,368.0 328.6,361.2 338.4,356.2 349.0,353.0" fill="none" stroke="#dfdcd0" stroke-width="1"/>
 <text x="365.0" y="356.0" font-size="11" fill="#8a938f">1</text>
 <polygon points="360.0,294.0 382.0,296.1 403.1,302.3 422.7,312.4 440.0,326.0 454.5,342.7 465.5,361.8 472.7,382.7 475.9,404.5 474.8,426.5 469.6,447.9 460.5,468.0 447.7,486.0 431.7,501.2 413.2,513.1 392.7,521.3 371.0,525.5 349.0,525.5 327.3,521.3 306.8,513.1 288.3,501.2 272.3,486.0 259.5,468.0 250.4,447.9 245.2,426.5 244.1,404.5 247.3,382.7 254.5,361.8 265.5,342.7 280.0,326.0 297.3,312.4 316.9,302.3 338.0,296.1" fill="none" stroke="#dfdcd0" stroke-width="1"/>
@@ -78,38 +78,38 @@
 <text x="242.5" y="120.5" text-anchor="middle" font-size="12" fill="#1c2321">32</text>
 <line x1="360.0" y1="410" x2="305.1" y2="125.2" stroke="#dfdcd0" stroke-width="1"/>
 <text x="300.2" y="103.6" text-anchor="middle" font-size="12" fill="#1c2321">33</text>
-<polygon points="360.0,142.3 409.4,153.7 462.6,153.7 507.1,181.0 540.9,220.3 590.6,245.8 602.7,299.2 609.3,349.5 631.1,397.1 616.1,446.8 603.4,494.2 597.6,547.2 553.9,578.0 519.8,613.3 479.1,641.0 437.6,674.3 383.8,659.4 335.1,671.0 286.5,660.4 242.0,638.9 197.9,616.1 177.4,568.3 131.9,541.7 117.9,493.8 84.4,449.6 80.4,396.7 101.7,347.3 127.0,303.6 155.3,264.2 181.6,222.9 205.6,169.8 257.6,154.2 310.4,152.6" fill="#a15c1f" fill-opacity="0.22" stroke="#a15c1f" stroke-width="2"/>
-<circle cx="360.0" cy="142.3" r="3.2" fill="#a15c1f"><title>4.62</title></circle>
-<circle cx="409.4" cy="153.7" r="3.2" fill="#a15c1f"><title>4.50</title></circle>
-<circle cx="462.6" cy="153.7" r="3.2" fill="#a15c1f"><title>4.76</title></circle>
-<circle cx="507.1" cy="181.0" r="3.2" fill="#a15c1f"><title>4.69</title></circle>
-<circle cx="540.9" cy="220.3" r="3.2" fill="#a15c1f"><title>4.52</title></circle>
-<circle cx="590.6" cy="245.8" r="3.2" fill="#a15c1f"><title>4.88</title></circle>
-<circle cx="602.7" cy="299.2" r="3.2" fill="#a15c1f"><title>4.60</title></circle>
-<circle cx="609.3" cy="349.5" r="3.2" fill="#a15c1f"><title>4.42</title></circle>
-<circle cx="631.1" cy="397.1" r="3.2" fill="#a15c1f"><title>4.68</title></circle>
-<circle cx="616.1" cy="446.8" r="3.2" fill="#a15c1f"><title>4.46</title></circle>
-<circle cx="603.4" cy="494.2" r="3.2" fill="#a15c1f"><title>4.44</title></circle>
-<circle cx="597.6" cy="547.2" r="3.2" fill="#a15c1f"><title>4.73</title></circle>
-<circle cx="553.9" cy="578.0" r="3.2" fill="#a15c1f"><title>4.42</title></circle>
-<circle cx="519.8" cy="613.3" r="3.2" fill="#a15c1f"><title>4.46</title></circle>
-<circle cx="479.1" cy="641.0" r="3.2" fill="#a15c1f"><title>4.48</title></circle>
-<circle cx="437.6" cy="674.3" r="3.2" fill="#a15c1f"><title>4.75</title></circle>
-<circle cx="383.8" cy="659.4" r="3.2" fill="#a15c1f"><title>4.32</title></circle>
-<circle cx="335.1" cy="671.0" r="3.2" fill="#a15c1f"><title>4.52</title></circle>
-<circle cx="286.5" cy="660.4" r="3.2" fill="#a15c1f"><title>4.50</title></circle>
-<circle cx="242.0" cy="638.9" r="3.2" fill="#a15c1f"><title>4.44</title></circle>
-<circle cx="197.9" cy="616.1" r="3.2" fill="#a15c1f"><title>4.52</title></circle>
-<circle cx="177.4" cy="568.3" r="3.2" fill="#a15c1f"><title>4.17</title></circle>
-<circle cx="131.9" cy="541.7" r="3.2" fill="#a15c1f"><title>4.54</title></circle>
-<circle cx="117.9" cy="493.8" r="3.2" fill="#a15c1f"><title>4.42</title></circle>
-<circle cx="84.4" cy="449.6" r="3.2" fill="#a15c1f"><title>4.80</title></circle>
-<circle cx="80.4" cy="396.7" r="3.2" fill="#a15c1f"><title>4.83</title></circle>
-<circle cx="101.7" cy="347.3" r="3.2" fill="#a15c1f"><title>4.58</title></circle>
-<circle cx="127.0" cy="303.6" r="3.2" fill="#a15c1f"><title>4.42</title></circle>
-<circle cx="155.3" cy="264.2" r="3.2" fill="#a15c1f"><title>4.33</title></circle>
-<circle cx="181.6" cy="222.9" r="3.2" fill="#a15c1f"><title>4.46</title></circle>
-<circle cx="205.6" cy="169.8" r="3.2" fill="#a15c1f"><title>4.92</title></circle>
-<circle cx="257.6" cy="154.2" r="3.2" fill="#a15c1f"><title>4.75</title></circle>
-<circle cx="310.4" cy="152.6" r="3.2" fill="#a15c1f"><title>4.52</title></circle>
+<polygon points="360.0,141.5 409.6,152.7 462.8,153.2 507.5,180.5 541.7,219.5 590.8,245.7 603.5,298.8 610.5,349.2 631.8,397.1 617.3,447.0 604.5,494.6 598.1,547.5 554.8,578.8 520.6,614.2 479.6,642.0 437.8,674.9 384.0,660.9 335.0,672.0 286.2,661.5 241.4,640.0 197.3,616.9 175.9,569.5 131.0,542.2 116.6,494.2 84.0,449.7 80.0,396.7 100.7,347.1 125.8,303.0 154.0,263.3 180.7,221.9 205.5,169.7 257.4,153.7 310.2,151.5" fill="#a15c1f" fill-opacity="0.22" stroke="#a15c1f" stroke-width="2"/>
+<circle cx="360.0" cy="141.5" r="3.2" fill="#a15c1f"><title>4.63</title></circle>
+<circle cx="409.6" cy="152.7" r="3.2" fill="#a15c1f"><title>4.52</title></circle>
+<circle cx="462.8" cy="153.2" r="3.2" fill="#a15c1f"><title>4.77</title></circle>
+<circle cx="507.5" cy="180.5" r="3.2" fill="#a15c1f"><title>4.70</title></circle>
+<circle cx="541.7" cy="219.5" r="3.2" fill="#a15c1f"><title>4.54</title></circle>
+<circle cx="590.8" cy="245.7" r="3.2" fill="#a15c1f"><title>4.88</title></circle>
+<circle cx="603.5" cy="298.8" r="3.2" fill="#a15c1f"><title>4.62</title></circle>
+<circle cx="610.5" cy="349.2" r="3.2" fill="#a15c1f"><title>4.44</title></circle>
+<circle cx="631.8" cy="397.1" r="3.2" fill="#a15c1f"><title>4.69</title></circle>
+<circle cx="617.3" cy="447.0" r="3.2" fill="#a15c1f"><title>4.48</title></circle>
+<circle cx="604.5" cy="494.6" r="3.2" fill="#a15c1f"><title>4.46</title></circle>
+<circle cx="598.1" cy="547.5" r="3.2" fill="#a15c1f"><title>4.74</title></circle>
+<circle cx="554.8" cy="578.8" r="3.2" fill="#a15c1f"><title>4.44</title></circle>
+<circle cx="520.6" cy="614.2" r="3.2" fill="#a15c1f"><title>4.48</title></circle>
+<circle cx="479.6" cy="642.0" r="3.2" fill="#a15c1f"><title>4.50</title></circle>
+<circle cx="437.8" cy="674.9" r="3.2" fill="#a15c1f"><title>4.76</title></circle>
+<circle cx="384.0" cy="660.9" r="3.2" fill="#a15c1f"><title>4.35</title></circle>
+<circle cx="335.0" cy="672.0" r="3.2" fill="#a15c1f"><title>4.54</title></circle>
+<circle cx="286.2" cy="661.5" r="3.2" fill="#a15c1f"><title>4.52</title></circle>
+<circle cx="241.4" cy="640.0" r="3.2" fill="#a15c1f"><title>4.46</title></circle>
+<circle cx="197.3" cy="616.9" r="3.2" fill="#a15c1f"><title>4.54</title></circle>
+<circle cx="175.9" cy="569.5" r="3.2" fill="#a15c1f"><title>4.20</title></circle>
+<circle cx="131.0" cy="542.2" r="3.2" fill="#a15c1f"><title>4.56</title></circle>
+<circle cx="116.6" cy="494.2" r="3.2" fill="#a15c1f"><title>4.44</title></circle>
+<circle cx="84.0" cy="449.7" r="3.2" fill="#a15c1f"><title>4.81</title></circle>
+<circle cx="80.0" cy="396.7" r="3.2" fill="#a15c1f"><title>4.83</title></circle>
+<circle cx="100.7" cy="347.1" r="3.2" fill="#a15c1f"><title>4.60</title></circle>
+<circle cx="125.8" cy="303.0" r="3.2" fill="#a15c1f"><title>4.44</title></circle>
+<circle cx="154.0" cy="263.3" r="3.2" fill="#a15c1f"><title>4.36</title></circle>
+<circle cx="180.7" cy="221.9" r="3.2" fill="#a15c1f"><title>4.48</title></circle>
+<circle cx="205.5" cy="169.7" r="3.2" fill="#a15c1f"><title>4.93</title></circle>
+<circle cx="257.4" cy="153.7" r="3.2" fill="#a15c1f"><title>4.76</title></circle>
+<circle cx="310.2" cy="151.5" r="3.2" fill="#a15c1f"><title>4.54</title></circle>
 </svg>
