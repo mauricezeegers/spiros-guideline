@@ -1,0 +1,78 @@
+cff-version: 1.2.0
+message: "If you use the SPIROS 2026 checklist or this repository, please cite it using the metadata below."
+title: "SPIROS 2026: Standardized Protocol Items Recommendations for Observational Studies"
+abstract: >-
+  SPIROS 2026 is a reporting guideline for the minimum content of protocols of
+  observational studies (cohort, case-control and cross-sectional designs). This
+  repository holds the 33-item checklist as an interactive web tool, a feedback
+  form and the supporting documentation.
+type: software
+authors:
+  - given-names: Raman
+    family-names: Mahajan
+    affiliation: "Maastricht University; Médecins Sans Frontières"
+    orcid: "https://orcid.org/0000-0001-6788-2835"
+  - given-names: Sakib
+    family-names: Burza
+    affiliation: "Health In Harmony; Médecins Sans Frontières"
+    orcid: "https://orcid.org/0000-0001-7886-8633"
+  - given-names: Lex
+    family-names: Bouter
+    affiliation: "Amsterdam University Medical Centers; Vrije Universiteit Amsterdam"
+    orcid: "https://orcid.org/0000-0002-2659-5482"
+  - given-names: Klaas
+    family-names: Sijtsma
+    affiliation: "Tilburg University"
+    orcid: "https://orcid.org/0000-0002-4739-0574"
+  - given-names: André
+    family-names: Knottnerus
+    affiliation: "Maastricht University"
+    orcid: "https://orcid.org/0000-0001-8159-4696"
+  - given-names: Jos
+    family-names: Kleijnen
+    affiliation: "Kleijnen Systematic Reviews Ltd"
+    orcid: "https://orcid.org/0000-0003-2787-7091"
+  - given-names: Bart
+    family-names: Staal
+    affiliation: "HAN University of Applied Sciences; Radboud University Medical Center"
+    orcid: "https://orcid.org/0000-0002-0083-6380"
+  - given-names: Carl
+    family-names: Lachat
+    affiliation: "Ghent University"
+    orcid: "https://orcid.org/0000-0002-1389-8855"
+  - given-names: Joseph
+    family-names: Ross
+    affiliation: "Yale School of Medicine"
+    orcid: "https://orcid.org/0000-0002-9218-3320"
+  - given-names: Philip
+    family-names: Greenland
+    affiliation: "Northwestern University Feinberg School of Medicine"
+    orcid: "https://orcid.org/0000-0002-6327-2439"
+  - given-names: Willi
+    family-names: Sauerbrei
+    affiliation: "University of Freiburg"
+    orcid: "https://orcid.org/0000-0002-6792-4123"
+  - given-names: Ana
+    family-names: Marušić
+    affiliation: "University of Split School of Medicine"
+    orcid: "https://orcid.org/0000-0001-6272-0917"
+  - given-names: Gary
+    family-names: Collins
+    affiliation: "University of Birmingham"
+    orcid: "https://orcid.org/0000-0002-2772-2316"
+  - given-names: Maurice P.
+    family-names: Zeegers
+    affiliation: "Maastricht University"
+    orcid: "https://orcid.org/0000-0002-2387-083X"
+repository-code: "https://github.com/mauricezeegers/spiros-guideline"
+url: "https://mauricezeegers.github.io/spiros-guideline/"
+license: CC-BY-4.0
+keywords:
+  - reporting guideline
+  - study protocol
+  - observational studies
+  - cohort study
+  - case-control study
+  - cross-sectional study
+  - checklist
+  - meta-research

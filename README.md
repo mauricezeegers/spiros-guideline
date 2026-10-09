@@ -1,4 +1,4 @@
-# SPIROS — Responsible Reporting
+# SPIROS: Responsible Reporting
 
 **Standardized Protocol Items Recommendations for Observational Studies**
 
@@ -102,6 +102,14 @@ We sincerely thank all members of the expert Delphi panel, all participants in t
 SPIROS is an active project and we welcome collaborators, on two fronts in particular. Contributions to future updates of the SPIROS guideline itself, and meta-research studying how SPIROS is being adopted and used in practice.
 
 Interested? Open an issue in this repository, or get in touch with [Prof. Dr. Maurice Zeegers](https://www.maastrichtuniversity.nl/mp-zeegers).
+
+## How to cite
+
+Please cite SPIROS 2026 using the **Cite this repository** button on the right of this GitHub page, which provides the citation in APA and BibTeX format from the [CITATION.cff](CITATION.cff) file in this repository.
+
+With the first release, this repository will be archived on [Zenodo](https://zenodo.org/) and receive its own DOI. The DOI badge will then be added here.
+
+The text of the checklist and the interactive tool are licensed under [CC BY 4.0](LICENSE). Examples quoted from published protocols remain under the licence of their original source.
 
 ---
 
