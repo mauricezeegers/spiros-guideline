@@ -1,0 +1,24 @@
+# SPIROS 2026: reporting guideline for observational study protocols
+
+> SPIROS (Standardized Protocol Items Recommendations for Observational Studies) is a reporting guideline, the SPIROS Statement, for the minimum content of a protocol for a cohort, case-control or cross-sectional study. It has 33 checklist items (55 sub-items), developed with a Delphi panel and a pilot study by the Section Meta-Research at Maastricht University.
+
+SPIROS does for observational study protocols what SPIRIT does for trial protocols and STROBE does for reports of observational studies. It describes what a protocol should contain, not how to design or conduct the study.
+
+## Main resources
+
+* [Full checklist in Markdown](https://mauricezeegers.github.io/spiros-guideline/checklist.md): all items with explanation and examples
+* [Interactive checklist](https://mauricezeegers.github.io/spiros-guideline/): tick off items while writing a protocol; answers stay in the browser
+* [Repository](https://github.com/mauricezeegers/spiros-guideline): authors, feedback results, licence (CC BY 4.0) and how to cite (CITATION.cff)
+* [Protocol paper (2020)](https://doi.org/10.2196/17864): Mahajan R, Burza S, Bouter LM, et al. JMIR Res Protoc 2020;9:e17864
+
+## Checklist items
+
+* 1. Administrative information: item 1 Title; item 2 Protocol version; item 3 Protocol summary; item 4 Sponsor and funder details; item 5 Conflict of interest statements; item 6 Investigators
+* 2. Study design and setting: item 7 Background, review of prior research, rationale; item 8 Aim, objectives and intention; item 9 Study design, data sources and setting; item 10 Study schedule
+* 3. Population and eligibility: item 11 Sample size; item 12 Sampling procedure; item 13 Participant selection
+* 4. Exposure and outcome definitions: item 14 Study variables and data definitions/measurement
+* 5. Data collection and management: item 15 Data collection, handling, management and confidentiality; item 16 Blinding procedures (if applicable); item 17 Potential biases
+* 6. Statistical analysis: item 18 Statistical analysis plan; item 19 Withdrawals, loss to follow-up and replacements; item 20 Handling of missing data
+* 7. Ethics and governance: item 21 Follow up; item 22 Plan of study monitoring; item 23 Training plan of study staff; item 24 Quality assurance and control; item 25 Ethical approval; item 26 Consent and assent; item 27 Risks, harms, anonymity and incentives; item 28 Involvement of patient/participant representatives in protocol development
+* 8. Dissemination: item 29 Communication of results and authorship
+* 9. Others: item 30 Use of AI-assisted technology; item 31 References; item 32 Funding; item 33 Registration and data sharing
